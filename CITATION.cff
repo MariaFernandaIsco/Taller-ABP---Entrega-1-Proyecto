@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Si usa este trabajo, cítelo así."
+title: "Clasificación de sentimiento en tweets en español con CNN 1D y redes recurrentes"
+authors:
+  - name: "[Nombre(s) del/los autor(es)]"
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-11-12"
+repository-code: "https://github.com/<usuario>/<repositorio>"

@@ -1,0 +1,15 @@
+# Núcleo (probado con Python 3.12)
+tensorflow-cpu==2.21.0
+keras==3.15.1
+numpy==2.5.3
+scikit-learn==1.9.1
+scipy
+pandas==3.0.5
+matplotlib==3.11.2
+# Prototipo / API
+fastapi==0.162.5
+uvicorn==0.54.0
+# Desarrollo y pruebas
+pytest
+httpx==0.28.1
+jupyter

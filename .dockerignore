@@ -1,0 +1,8 @@
+.git
+**/__pycache__
+.pytest_cache
+notebooks
+presentacion
+docs
+results/*.png
+results/log_*
